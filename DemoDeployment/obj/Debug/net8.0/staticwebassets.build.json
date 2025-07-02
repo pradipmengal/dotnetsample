@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "lnsfatUq7lgHUm8vg13zZMyOfmjZQZhqqwxa5WTw5Do=",
+  "Source": "DemoDeployment",
+  "BasePath": "_content/DemoDeployment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DemoDeployment/wwwroot",
+      "Source": "DemoDeployment",
+      "ContentRoot": "/home/pradipmengal/mydotnet/DemoDeployment/wwwroot/",
+      "BasePath": "_content/DemoDeployment",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/pradipmengal/mydotnet/DemoDeployment/wwwroot/index.html",
+      "SourceId": "DemoDeployment",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/pradipmengal/mydotnet/DemoDeployment/wwwroot/",
+      "BasePath": "_content/DemoDeployment",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}
